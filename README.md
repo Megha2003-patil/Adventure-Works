@@ -1,1 +1,4 @@
 # Adventure-Works
+This project focuses on analyzing e-commerce sales data using SQL, Excel, Tableau, and Power BI to generate business insights through interactive dashboards. The project includes analysis of customer behavior, payment methods, product performance, sales trends, delivery performance, and review scores. SQL was used for data cleaning and KPI analysis, while Tableau, Excel, and Power BI were used to create dynamic dashboards with charts, filters, and KPI cards.
+
+The dashboards provide insights such as weekday vs weekend sales, payment type analysis, average shipping days, customer city analysis, and yearly sales trends. This project demonstrates skills in data analysis, SQL querying, dashboard development, data visualization, and business intelligence, helping businesses make better data-driven decisions.
